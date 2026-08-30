@@ -20,7 +20,7 @@ Fullstack Developer | Consultoria em IA e Automação de Processos
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanches-jc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanches-jc/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sanches_jc@yahoo.com.br)
 [![Site](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jcsanches.com.br)
 
